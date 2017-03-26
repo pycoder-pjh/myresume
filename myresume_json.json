@@ -56,19 +56,19 @@
 		"area": "Computer Science",
 		"studyType": "Bachelor of Technology",
 		"year": "2012",
-		"percentage": 68.65,
+		"percentage": "68",
 },
 {
 		"institution": "Narayana Junior College",
 		"studyType": "Intermediate",
 		"year":"2008",
-		"percentage": 94.50,
+		"percentage": "94",
 },
 {
 		"institution": "Vijayavani Public School",
 		"studyType": "SSC",
 		"year": "2006",
-		"percentage": 87.83,
+		"percentage": "87",
 }
 ],
 "skills": [
