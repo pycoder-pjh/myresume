@@ -1,119 +1,119 @@
 {
 "bio": {
-			"firstName": "Jagadeeswaraiah",
-			"lastName": "Palle",
+		"firstName": "Jagadeeswaraiah",
+		"lastName": "Palle",
 "email": {
-			"work": "jpalle@paypal.com",
-			"personal": "eswar.pjh@gmail.com"
+		"work": "jpalle@paypal.com",
+		"personal": "eswar.pjh@gmail.com"
 	   },
 "phone": {
-"work": "N/A",
-"personal": "893-933-0869"
+		"work": "N/A",
+		"personal": "893-933-0869"
 },
 "summary": "I'm a professional sofware developer, music lover,reader,foodie etc.,. I'm always looking for a new challenge.",
 "location": {
-"city": "Chennai",
-"state": "TN",
-"countryCode": "IND"
+		"city": "Chennai",
+		"state": "TN",
+		"countryCode": "IND"
 },
 "websites": {
-"blog": "http://jagadeshpalle.blogspot.com"
+		"blog": "http://jagadeshpalle.blogspot.com"
 },
 "profiles": {
-"github": "https://github.com/pycoder-pjh",
-"linkedin": "p-jagadeeswaraiah"
+		"github": "https://github.com/pycoder-pjh",
+		"linkedin": "p-jagadeeswaraiah"
 }
 },
 "work": [
 {
-"company": "PayPal Holdings,Inc.",
-"position": "Software Developer",
-"website": "http://www.paypal.com",
-"summary": 
-"highlights": [
-]
-}
-{
-"company": "Tringapps Research Labs Pvt Ltd.",
-"position": "Software Developer",
-"website": "http://www.tringapps.com",
-"summary": 
-"highlights": [
-]
+		"company": "PayPal India Pvt Ltd",
+		"position": "Software Developer",
+		"website": "http://www.paypal.com",
+		"summary": "",
+		"highlights": [
+		]
 },
 {
-"company": "Mphasis",
-"position": "Trainee Software Engineer",
-"website": "http://www.mphasis.com",
-"summary": 
-"highlights": [
-]
+		"company": "Tringapps Research Labs Pvt Ltd.",
+		"position": "Software Developer",
+		"website": "http://www.tringapps.com",
+		"summary": "",
+		"highlights": [
+		]
+},
+{
+		"company": "Mphasis",
+		"position": "Trainee Software Engineer",
+		"website": "http://www.mphasis.com",
+		"summary": "",
+		"highlights": [
+		]
 },
 ],
 "education": [
 {
-"institution": "Jawaharlal Nehru Technological University",
-"area": "Computer Science",
-"studyType": "Bachelor of Technology",
-"year": "2012",
-"percentage": "68.65",
+		"institution": "Jawaharlal Nehru Technological University",
+		"area": "Computer Science",
+		"studyType": "Bachelor of Technology",
+		"year": "2012",
+		"percentage": "68.65",
 },
 {
-"institution": "Narayana Junior College",
-"studyType": "Intermediate",
-"year":"2008",
-"percentage": "94.50",
+		"institution": "Narayana Junior College",
+		"studyType": "Intermediate",
+		"year":"2008",
+		"percentage": "94.50",
 },
 {
-"institution": "Vijayavani Public School",
-"studyType": "SSC",
-"year": "2006",
-"percentage": "87.83",
+		"institution": "Vijayavani Public School",
+		"studyType": "SSC",
+		"year": "2006",
+		"percentage": "87.83",
 }
 ],
 "skills": [
 {
-"name": "Software Developer",
-"level": "Beginner",
-"keywords": [
-"Python",
-"Django",
-"Flask",
-"Core Java",
-"JavaScript",
-"HTML",
-"CSS",
-"Bootstrap",
-"Linux",
-"REST",
-"API",
-"SQL",
-"MySQL",
-"Google App Engine",
-"selenium",
-]
+		"name": "Software Developer",
+		"level": "Beginner",
+		"keywords": [
+			"Python",
+			"Django",
+			"Flask",
+			"Core Java",
+			"JavaScript",
+			"HTML",
+			"CSS",
+			"Bootstrap",
+			"Linux",
+			"REST",
+			"API",
+			"SQL",
+			"MySQL",
+			"Google App Engine",
+			"selenium",
+		]
 }
 ],
 "publications": [
 {
-"title": "",
-"publisher": "",
-"website": "",
+		"title": "",
+		"publisher": "",
+		"website": "",
 }
 ],
 "hobbies": [
 {
-	"1":"reading",
-	"2":"programming",
-	"3":"learning new technologies",
-	"4":"surfing",
-	"5":"listening music",
+		"1":"reading",
+		"2":"programming",
+		"3":"learning new technologies",
+		"4":"surfing",
+		"5":"listening music",
 }
 ],
 "references": [
 {
-"name": "",
-"reference": ""
+		"name": "",
+		"reference": ""
 }
 ]
 }
